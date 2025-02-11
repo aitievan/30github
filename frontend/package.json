@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "prop-types": "^15.8.1"
+  }
+  "scripts": {
+    "dev": "next dev",
+    "start": "next start",
+    "build": "next build",
+    "clean": "rm -rf .next",
+    "prepare": "npm install && npm run dev"
+  }
+  
+}
